@@ -1,0 +1,6 @@
+dia = input('Qual é o dia do seu nascimento ?')
+mes = input( 'Qual é o mês do seu nascimento?')
+ano = input('qual é o ano do seu nascimento')
+print( 'VocÊ nasceu do dia', dia ,  'de',  mes , ano, ' . Correto ?')
+resposta = input()
+print('deu certo ! Obrigado')
